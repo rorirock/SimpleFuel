@@ -161,7 +161,7 @@
             object-fit: cover;
             border-radius: 12px;
             /* Placeholder image representing healthy food/natural light */
-            background-image: url('public/img/ebook.png');
+            background-image: url('img/ebook.png');
             background-size: cover;
             background-position: center;
         }
@@ -273,7 +273,7 @@
             height: 400px;
             object-fit: cover;
             border-radius: 12px;
-            background-image: url('/public/img/efect-simplefuel.png');
+            background-image: url('img/efect-simplefuel.png');
             background-size: cover;
             background-position: center;
         }
@@ -285,7 +285,7 @@
         }
 
         .cta-box {
-            background-image: url('/public/img/comming-soon.png');
+            background-image: url('img/comming-soon.png');
             background-size: cover;
             background-position: center;
             padding: 3rem;
