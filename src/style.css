@@ -161,7 +161,7 @@
             object-fit: cover;
             border-radius: 12px;
             /* Placeholder image representing healthy food/natural light */
-            background-image: url('/public/img/ebook.png');
+            background-image: url('public/img/ebook.png');
             background-size: cover;
             background-position: center;
         }
