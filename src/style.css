@@ -75,6 +75,12 @@
             border: 1px solid transparent;
         }
 
+        .btn-cta{
+            background: #FFF6E5;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
         .btn-primary {
             background-color: var(--accent-sage);
             color: var(--white);
@@ -367,6 +373,12 @@
             border: none;
             cursor: pointer;
             color: #333;
+        }
+
+        .text-buy{
+            margin-bottom: 2rem;
+            color: var(--bg-cream);
+            font-weight: 700;
         }
 
         @media (max-width: 768px) {
